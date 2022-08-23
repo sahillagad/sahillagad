@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Sahil Bhaskar Lagad</h1>
 <h3 align="center">Full Stack Developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology.</h3>
 
