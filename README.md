@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahillagad&label=Profile%20views&color=0e75b6&style=flat" alt="sahillagad" /> </p>
-<img src="https://i.makeagif.com/media/11-29-2017/DW588u.gif" alt="sahillagad" />
+<img src="[https://i.makeagif.com/media/11-29-2017/DW588u.gif](https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg)" alt="sahillagad" />
 
 - 🌱 I’m currently learning **Full Stack Development**
 
