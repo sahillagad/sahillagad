@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sahillagad9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WhogoCJoEZPPOeRcMQjrUixgUXXLPoYd/view](https://drive.google.com/file/d/1WhogoCJoEZPPOeRcMQjrUixgUXXLPoYd/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/117OS9zwd2eI6wsiJxhEQ1fHS45sfRkXD/view?usp=sharing](https://drive.google.com/file/d/1WhogoCJoEZPPOeRcMQjrUixgUXXLPoYd/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
