@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Bhaskar Lagad</h1>
 <h3 align="center">Java Backend Developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Backend Developer. Proficient in Frontend Technology as Well as in Backend Technology.</h3>
+<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahillagad&label=Profile%20views&color=0e75b6&style=flat" alt="sahillagad" /> </p>
 
