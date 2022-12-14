@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sahillagad9@gmail.com**
 
- 📄 Know about my experiences <a href="[https://github.com/sahillagad/SahilLagadResume/blob/main/Sahil's%20Resume%20(13).pdf](https://drive.google.com/drive/folders/1Xut69VV0BSJKOignksRkTsq9yeIKOBlY)">MyResume</a>
+ 📄 Know about my experiences <a href="https://github.com/sahillagad/SahilLagadResume/blob/main/Sahil's%20Resume%20(13).pdf"> MyResume </a>
  <!-- -(https://drive.google.com/file/d/117OS9zwd2eI6wsiJxhEQ1fHS45sfRkXD/view) -->
 
 <h3 align="left">Connect with me:</h3>
